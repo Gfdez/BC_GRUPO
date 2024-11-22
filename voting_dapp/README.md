@@ -110,7 +110,7 @@ Este proyecto es una aplicación descentralizada (DApp) de votación construida 
    - Despliega el contrato en la red de Sepolia.
 
 5. **Actualiza `addresses.js`:**
-   - Despu��s de desplegar, copia la dirección del contrato y actualízala en `src/contracts/addresses.js`:
+   - Después de desplegar, copia la dirección del contrato y actualízala en `src/contracts/addresses.js`:
 
 ## Uso de la Aplicación
 
