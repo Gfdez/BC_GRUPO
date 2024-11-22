@@ -98,7 +98,7 @@ Este proyecto es una aplicación descentralizada (DApp) de votación construida 
    - Ve a [Remix](https://remix.ethereum.org/).
 
 2. **Carga Voting.sol:**
-   - Navega hasta el archivo `Voting.sol` en la carpeta `src/`.
+   - Navega hasta el archivo `Voting.sol`.
 
 3. **Compila el Contrato:**
    - Selecciona la versión de Solidity `^0.8.3`.
